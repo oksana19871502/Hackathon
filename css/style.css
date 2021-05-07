@@ -1,0 +1,150 @@
+.topHeader {
+	display: flex;
+    justify-content: space-between;
+    padding: 0px 90px;
+    align-items: center;
+}
+
+.logoImg {
+	flex-direction: column;
+    background: url(../img/home-bg.jpg)no-repeat;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: color;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    height: 500px;
+}
+
+.black {
+	color: white;
+    font-size: 50px;
+    margin-top: 20%;
+    margin-bottom: 0px;
+}
+
+.logo-botton {
+	color: rgb(204, 204, 0);
+    margin-bottom: 20px;
+    font-size: 10px;
+    font-family: 'Noto Serif';
+}
+
+.top-button {
+	border-radius: 25px;
+    border-style: none;
+    background: white;
+    padding: 10px;
+    font-size: 8px;
+    text-transform: uppercase;
+}
+
+.logo {
+	font-family: 'Noto Serif' serif;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+nav a {
+	text-decoration: none;
+    color: grey;
+    padding: 0 20px 0;
+    font-family: 'Noto Serif';
+    font-size: 14px;
+}
+
+nav a:hover, .img1-button:hover, .href:hover {
+	color: #91ac27;
+}
+
+.sit {
+    margin-top: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.img-blog {
+    width: 100%;
+}
+
+h2 {
+    font-family: 'Noto Serif';
+    font-size: 17px;
+}
+
+.foto {
+    border-radius: 50%;
+    width: 7%;
+    padding-right: 10px;
+}
+
+.top-article {
+    display: flex;
+    align-items: center;
+    font-family: 'Noto Serif';
+    font-size: 13px
+}
+
+.top-article {
+    display: flex;
+    align-items: center;
+    font-family: 'Noto Serif';
+    font-size: 13px
+}
+
+.textSample {
+    font-family: 'Noto Serif';
+    font-size: 13px;
+    color: gray;
+}
+
+.img1-button {
+    border-radius: 25px;
+    background: white;
+    padding: 10px;
+    font-size: 8px;
+    text-transform: uppercase;
+    border: gray solid 1px;
+    margin-bottom: 15%;
+}
+
+
+.end {
+    background: black;
+    display: flex;
+    justify-content: space-around;
+    padding: 8%;
+}
+
+.textFooter {
+    font-family: 'Noto Serif';
+    color: grey;
+    font-size: 10px;
+    width: 30%;
+}
+
+.two {
+    font-family: 'Noto Serif';
+    color: white;
+    font-size: 10px;
+    width: 30%;
+}
+
+b {
+    font-size: 20px;
+    color: white;
+}
+
+.href {
+    text-decoration: none;
+    color: gray;
+}
+
+
+.CA {
+    color: grey;
+}
+
+span, data {
+    padding-right: 10px;
+}
